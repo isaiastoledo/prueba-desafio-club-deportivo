@@ -1,0 +1,24 @@
+{
+  "deportes": [
+    {
+      "nombre": "basquetbol",
+      "precio": "150"
+    },
+    {
+      "nombre": "tenis",
+      "precio": "300"
+    },
+    {
+      "nombre": "equitación",
+      "precio": "500"
+    },
+    {
+      "nombre": "golf",
+      "precio": "600"
+    },
+    {
+      "nombre": "gamer",
+      "precio": "400"
+    }
+  ]
+}
