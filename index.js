@@ -7,4 +7,4 @@ const PORT = process.env.PORT || 3000;
 app.use('/', routes)
 
 
-app.listen(PORT, () => console.log(`Example app listening on port http://localhost:${PORT}`));
+app.listen(PORT, () => console.log(`Servidor corriendo en el puerto http://localhost:${PORT}`));
